@@ -1,0 +1,28 @@
+exo_02.rb:
+"puts" inscrit le résultat l'un en dessous de l'autre, tandis que "print" affiche le résultat à la suite sur la même ligne.
+
+exo_03.rb:
+Avec Ruby, le symbole "#" en début de ligne permet de faire un commentaire. La ligne n'est donc pas executée.
+
+exo_04.rb:
+La ligne de code apparaît telle quelle avec en toute fin un "^".
+Elle n'est pas executée à cause du guillemet " manquant à la fin du code.
+
+exo_05.rb:
+"#{}" permet de calculer ou vérifier les valeurs entre elles à l'intérieur d'un string.
+
+exo_06.rb:
+ça ne peut pas marcher car la variable "number_of_minutes_in_an_hour" n'est pas déclarée et aucun nombre ne lui est associé.
+donc impossible de calculer le résultat, la console indique une erreur.
+
+exo_07_a.rb:
+"gets.chomp" invite l'utilisateur à rentrer une valeur (texte ou chiffre)
+Ce code nous invite à rentrer un nom d'utilisateur, une fois renseigné, le nom d'utilisateur s'affiche
+
+exo_07_b.rb:
+Le symbole ">" a été rajouté afin de symboliquement marquer que le texte qui suit a été rentré par l'utilisateur.
+L'utilisation de "print" fait que tout se retrouve sur la même ligne.
+
+exo_07_c.rb:
+La question ne s'affiche plus. L'utilisateur est directement invité à rentrer une valeur.
+La valeur saisie se répète à la ligne d'en dessous.
